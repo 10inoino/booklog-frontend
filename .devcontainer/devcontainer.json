@@ -1,0 +1,13 @@
+{
+	"name": "booklog-frontend",
+	"dockerComposeFile": ["../docker-compose.yml", "docker-compose.yml"],
+	"service": "booklog-frontend",
+	"workspaceFolder": "/workspace",
+	"settings": {},
+	"extensions": [
+		"yzhang.markdown-all-in-one",
+		"eamodio.gitlens",
+		"wayou.vscode-todo-highlightx",
+		"esbenp.prettier-vscode"
+	]
+}
